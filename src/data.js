@@ -13,32 +13,32 @@ export default {
             {
                 name: "HTML 1",
                 slug: "lession1",
-                link: "https://www.youtube.com/embed/R6plN3FvzFY"
+                link: "https://www.youtube-nocookie.com/embed/R6plN3FvzFY"
             },
             {
                 name: "HTML 2",
                 slug: "lession2",
-                link: "https://www.youtube.com/embed/f5hbmw7Ba7c"
+                link: "https://www.youtube-nocookie.com/embed/f5hbmw7Ba7c"
             },
             {
                 name: "HTML 3",
                 slug: "lession3",
-                link: "https://www.youtube.com/embed/zwsPND378OQ"
+                link: "https://www.youtube-nocookie.com/embed/zwsPND378OQ"
             },
             {
                 name: "HTML 4",
                 slug: "lession4",
-                link: "https://www.youtube.com/embed/7BJiPyN4zZ0"
+                link: "https://www.youtube-nocookie.com/embed/7BJiPyN4zZ0"
             },
             {
                 name: "HTML 5",
                 slug: "lession5",
-                link: "https://www.youtube.com/embed/ZotVkQDC6mU"
+                link: "https://www.youtube-nocookie.com/embed/ZotVkQDC6mU"
             },
             {
                 name: "HTML 6",
                 slug: "lession6",
-                link: "https://www.youtube.com/embed/LYnrFSGLCl8"
+                link: "https://www.youtube-nocookie.com/embed/LYnrFSGLCl8"
             },
         ]
         },
@@ -55,32 +55,32 @@ export default {
             {
                 name: "CSS 1",
                 slug: "lession1",
-                link: "https://www.youtube.com/embed/uz5LIP85J5Y"
+                link: "https://www.youtube-nocookie.com/embed/uz5LIP85J5Y"
             },
             {
                 name: "CSS 2",
                 slug: "lession2",
-                link: "https://www.youtube.com/embed/f5hbmw7Ba7c"
+                link: "https://www.youtube-nocookie.com/embed/f5hbmw7Ba7c"
             },
             {
                 name: "CSS 3",
                 slug: "lession3",
-                link: "https://www.youtube.com/embed/5QT0aeovTTY"
+                link: "https://www.youtube-nocookie.com/embed/5QT0aeovTTY"
             },
             {
                 name: "CSS 4",
                 slug: "lession4",
-                link: "https://www.youtube.com/embed/CIIYogDrGto"
+                link: "https://www.youtube-nocookie.com/embed/CIIYogDrGto"
             },
             {
                 name: "CSS 5",
                 slug: "lession5",
-                link: "https://www.youtube.com/embed/XJiq_d0vGCQ"
+                link: "https://www.youtube-nocookie.com/embed/XJiq_d0vGCQ"
             },
             {
                 name: "CSS 6",
                 slug: "lession6",
-                link: "https://www.youtube.com/embed/YgkzJkmDP3U"
+                link: "https://www.youtube-nocookie.com/embed/YgkzJkmDP3U"
             },
         ]
         },
@@ -97,32 +97,32 @@ export default {
             {
                 name: "Javascript 1",
                 slug: "lession1",
-                link: "https://www.youtube.com/embed/0SJE9dYdpps"
+                link: "https://www.youtube-nocookie.com/embed/0SJE9dYdpps"
             },
             {
                 name: "Javascript 2",
                 slug: "lession2",
-                link: "https://www.youtube.com/embed/f5hbmw7Ba7c"
+                link: "https://www.youtube-nocookie.com/embed/f5hbmw7Ba7c"
             },
             {
                 name: "Javascript 3",
                 slug: "lession3",
-                link: "https://www.youtube.com/embed/jV06pqjUUc"
+                link: "https://www.youtube-nocookie.com/embed/jV06pqjUUc"
             },
             {
                 name: "Javascript 4",
                 slug: "lession4",
-                link: "https://www.youtube.com/embed/jV06pqjUUc"
+                link: "https://www.youtube-nocookie.com/embed/jV06pqjUUc"
             },
             {
                 name: "Javascript 5",
                 slug: "lession5",
-                link: "https://www.youtube.com/embed/efI98nT8Ffo"
+                link: "https://www.youtube-nocookie.com/embed/efI98nT8Ffo"
             },
             {
                 name: "Javascript 6",
                 slug: "lession6",
-                link: "https://www.youtube.com/embed/W0vEUmyvthQ"
+                link: "https://www.youtube-nocookie.com/embed/W0vEUmyvthQ"
             },
         ]
         },
@@ -139,32 +139,32 @@ export default {
             {
                 name: "NodeJS 1",
                 slug: "lession1",
-                link: "https://www.youtube.com/embed/zwsPND378OQ"
+                link: "https://www.youtube-nocookie.com/embed/zwsPND378OQ"
             },
             {
                 name: "NodeJS 2",
                 slug: "lession2",
-                link: "https://www.youtube.com/embed/zwsPND378OQ"
+                link: "https://www.youtube-nocookie.com/embed/zwsPND378OQ"
             },
             {
                 name: "NodeJS 3",
                 slug: "lession3",
-                link: "https://www.youtube.com/embed/zwsPND378OQ"
+                link: "https://www.youtube-nocookie.com/embed/zwsPND378OQ"
             },
             {
                 name: "NodeJS 4",
                 slug: "lession4",
-                link: "https://www.youtube.com/embed/zwsPND378OQ"
+                link: "https://www.youtube-nocookie.com/embed/zwsPND378OQ"
             },
             {
                 name: "NodeJS 5",
                 slug: "lession5",
-                link: "https://www.youtube.com/embed/zwsPND378OQ"
+                link: "https://www.youtube-nocookie.com/embed/zwsPND378OQ"
             },
             {
                 name: "NodeJS 6",
                 slug: "lession6",
-                link: "https://www.youtube.com/embed/zwsPND378OQ"
+                link: "https://www.youtube-nocookie.com/embed/zwsPND378OQ"
             },
         ]
         },
@@ -181,32 +181,32 @@ export default {
             {
                 name: "Tips 1",
                 slug: "lession1",
-                link: "https://www.youtube.com/embed/zwsPND378OQ"
+                link: "https://www.youtube-nocookie.com/embed/zwsPND378OQ"
             },
             {
                 name: "Tips 2",
                 slug: "lession2",
-                link: "https://www.youtube.com/embed/zwsPND378OQ"
+                link: "https://www.youtube-nocookie.com/embed/zwsPND378OQ"
             },
             {
                 name: "Tips 3",
                 slug: "lession3",
-                link: "https://www.youtube.com/embed/zwsPND378OQ"
+                link: "https://www.youtube-nocookie.com/embed/zwsPND378OQ"
             },
             {
                 name: "Tips 4",
                 slug: "lession4",
-                link: "https://www.youtube.com/embed/zwsPND378OQ"
+                link: "https://www.youtube-nocookie.com/embed/zwsPND378OQ"
             },
             {
                 name: "Tips 5",
                 slug: "lession5",
-                link: "https://www.youtube.com/embed/zwsPND378OQ"
+                link: "https://www.youtube-nocookie.com/embed/zwsPND378OQ"
             },
             {
                 name: "Tips 6",
                 slug: "lession6",
-                link: "https://www.youtube.com/embed/zwsPND378OQ"
+                link: "https://www.youtube-nocookie.com/embed/zwsPND378OQ"
             },
         ]            
         }

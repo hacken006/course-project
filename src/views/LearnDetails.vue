@@ -1,9 +1,10 @@
 <template>
   <section>
       <!-- LEARN DETAIL PAGE -->
-      <h1>{{learn.name}}</h1>
-      <iframe width="420" height="345" :src="learn.link">
-        </iframe>
+      <div class="container">
+      <iframe class="youtube" frameborder="2" :src="learn.link"></iframe>
+      </div>
+      <span>{{learn.name}}</span>
   </section>
 </template>
 
@@ -36,6 +37,24 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
+.container {
+    overflow: hidden;
+    position: relative;
+    width:100%;
+}
 
+.container::after {
+    padding-top: 56.25%;
+    display: block;
+    content: '';
+}
+
+.container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
 </style>

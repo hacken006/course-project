@@ -1,19 +1,26 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <Header />
-    </div>
+    <Header class="my-5" />
     <router-view :key="$route.path" />
+    <Footer />
   </div>
 </template>
 
 <script>
 import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 
 export default {
   components: {
-    Header
-  }
+    Header,
+    Footer
+  },
+  metaInfo: {
+      // if no subcomponents specify a metaInfo.title, this title will be used
+      title: 'Learn Code Free',
+      // all titles will be injected into this template
+      titleTemplate: '%s | Tutorial Dev'
+    }
 };
 </script>
 
@@ -24,5 +31,9 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+}
+.navbar-active{
+  color: white !important;
+  font-weight: bold;
 }
 </style>

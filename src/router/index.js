@@ -33,7 +33,7 @@ const routes = [
         name: "courseDetails",
         props: true,
         component: () =>
-          import(/* webpackChunkName: "course-details" */ "../views/Learning.vue")
+          import(/* webpackChunkName: "course-details" */ "../views/LearnDetails.vue")
       }
     ]
   },
@@ -49,7 +49,7 @@ const routes = [
     name: "Code",
     props: true,
     component: () =>
-      import(/* webpackChunkName: "about" */ "../views/Code.vue")
+      import(/* webpackChunkName: "code" */ "../views/Code.vue")
   },
 ];
 

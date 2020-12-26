@@ -1,31 +1,20 @@
 <template>
   <div class="home">
-    <h1>HOME COURSE PAGE</h1>
-    <div v-for="course in courses"
-    :key="course.name">
-      <router-link :to="{name : 'Course', params : {slug:course.slug} }">
-        <h2>{{course.name}}</h2>
-      </router-link>
-      <figure>
-        <router-link :to="{name : 'Course', params : {slug:course.slug} }">
-          <img :src="require(`@/assets/${course.image}`)" alt="course.name">
-        </router-link>
-      </figure>
-    </div>
+    <Slide />
+    <Courses />
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import Data from '@/data.js';
+import Slide from "@/components/Slide";
+import Courses from '@/views/Courses';
 
 export default {
   name: "Home",
-  components: {},
+  components: {Slide, Courses},
   data(){
-    return{
-      courses: Data.courses
-    }
+    return{}
   }
 };
 </script>
