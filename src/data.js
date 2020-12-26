@@ -4,7 +4,7 @@ export default {
         name: "HTML, CSS từ zero đến Hero",
         slug: "html-css",
         image: "html-css.jpg",
-        jointed: 8899,
+        jointed: 8898,
         menus: "HTML/ CSS",
         id: 1,
         description:
